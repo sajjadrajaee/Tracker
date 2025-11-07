@@ -1,0 +1,14 @@
+{
+  "BTC": {
+    "low_buy_1": 25000,
+    "low_buy_2": 22000,
+    "high_sell_1": 32000,
+    "high_sell_2": 35000
+  },
+  "ETH": {
+    "low_buy_1": 1500,
+    "low_buy_2": 1200,
+    "high_sell_1": 2200,
+    "high_sell_2": 2500
+  }
+}
